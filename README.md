@@ -16,10 +16,10 @@ Grace days used for this assignment: 0
 Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- For this project/assignment, all went well.
+ n/a
 
 ## REFERENCES:
- For this assignment, no outside resources were used.
+ n/a
 
 ## MISCELLANEOUS COMMENTS:
- At this moment, no. I'm excited to learn from this class though!
+ n/a
